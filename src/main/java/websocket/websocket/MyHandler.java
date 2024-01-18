@@ -1,4 +1,5 @@
-package com.durgesh.websoket.websocket;
+/*
+package websocket.websocket;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.socket.CloseStatus;
@@ -39,3 +40,4 @@ public class MyHandler implements WebSocketHandler {
         return false;
     }
 }
+*/
